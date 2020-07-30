@@ -1,0 +1,15 @@
+html {
+  fontsize: 10px;
+}
+
+#main {
+  fontsize: 30px;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
